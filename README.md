@@ -5,4 +5,5 @@ The following components were coded in Python:
 * Network Generation
 * Network Measures Calculation
 * Network Structure Analysis
+
 And, the Correlation Analysis was done in R. All the scripts can be found in the **Scripts** folder.
